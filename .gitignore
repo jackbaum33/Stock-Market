@@ -1,0 +1,6 @@
+*.txt
+*.dSYM
+market
+*.gz
+--connect=52651
+*.o
